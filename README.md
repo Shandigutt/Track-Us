@@ -1,4 +1,4 @@
 Track-Us
 ========
 
-This is an Android project which allows to track people in a group based environment.
+This is an android application with Google App Engine backend developed introducing a new concept for group based communication where the users can create groups on their own as a group leader and monitor the group members on Google map real time and pass messages to them. 
